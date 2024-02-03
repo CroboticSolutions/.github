@@ -1,3 +1,6 @@
+
+![CroboticSolutions](./images/CroboticSolutions.jpg)
+
 # CroboticSolutions 
 
 We aim to create first omni-directional robot that's fully open source. 
