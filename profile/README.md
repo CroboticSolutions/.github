@@ -1,18 +1,27 @@
 
 ![CroboticSolutions](./images/CroboticSolutions.png)
 
-# CroboticSolutions 
 
-We aim to create first omni-directional robot that's fully open source. 
+We aim to create first modular, advanced and affordable mobile robot that's fully open source. 
 
 You can contribute to every part of the system and watch how robot grows! 
 
+## Roadmap
+
+Add roadmap 
+
 ## TODO: 
 
-- [ ] Update initial README.md
-- [ ] Add repositories regarding embedded programming
-- [ ] Add NAV2 on robot
-- [ ] Add robot manipulator on robot
-- [ ] Test simple navigation with sensors
-- [ ] Start Camera sensors
-
+- [ ] [gen] Add repositories regarding embedded
+- [ ] [sys] Linux info/rPI setup
+- [ ] [sys] Docker info/setup
+- [ ] [sys] HW-SW integration
+- [ ] [HW] encoders programming
+- [ ] [HW] modular chasis
+- [ ] [HW] add robot manipulator
+- [ ] [SW] [ctl] Set up NAV2 on robot
+- [ ] [SW] [sim] Add robot to simulation
+- [ ] [SW] [ctl] Add pure pursuit in simulation
+- [ ] [SW] [ctl] Add robot manipulator on robot
+- [ ] [SW] [sim] Test simple navigation with sensors
+- [ ] [SW] [per] Start camera sensors
