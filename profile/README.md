@@ -2,7 +2,11 @@
 ![CroboticSolutions](./profile/images/CroboticSolutions.png)
 
 
-We aim to create first modular, advanced and affordable mobile robot that's fully open source. 
+## We aim to create first modular, advanced and affordable mobile robot that's fully open source. 
+
+Check more on our website. 
+
+## [www.crobotics.tech](www.crobotics.tech)
 
 You can contribute to every part of the system and watch how robot grows! 
 
