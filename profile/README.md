@@ -1,5 +1,5 @@
 
-![CroboticSolutions](./images/CroboticSolutions.jpg)
+![CroboticSolutions](./images/CroboticSolutions.png)
 
 # CroboticSolutions 
 
