@@ -1,5 +1,5 @@
 
-![CroboticSolutions](./images/CroboticSolutions.png)
+![CroboticSolutions](./profile/images/CroboticSolutions.png)
 
 
 We aim to create first modular, advanced and affordable mobile robot that's fully open source. 
