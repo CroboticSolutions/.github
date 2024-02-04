@@ -9,7 +9,7 @@ You can contribute to every part of the system and watch how robot grows!
 
 ## Roadmap
 
-Add roadmap 
+[Roadmapping](https://mozillascience.github.io/working-open-workshop/roadmapping/). 
 
 ## Team 
 
@@ -21,6 +21,12 @@ Team behind CroboticSolutions consists of:
 
 ## TODO: 
 
+<details>
+
+<summary>List of development tasks.</summary>
+
+- [ ] [org] How to contribute?
+- [ ] [org] Docs update/roadmap
 - [ ] [gen] Add repositories regarding embedded
 - [ ] [sys] Linux info/rPI setup
 - [ ] [sys] Docker info/setup
@@ -35,3 +41,5 @@ Team behind CroboticSolutions consists of:
 - [ ] [SW] [ctl] Add robot manipulator on robot
 - [ ] [SW] [sim] Test simple navigation with sensors
 - [ ] [SW] [per] Start camera sensors
+
+</details>
