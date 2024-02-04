@@ -23,7 +23,7 @@ Team behind CroboticSolutions consists of:
 
 <details>
 
-<summary>List of development tasks.</summary>
+<summary>Click to check it out!</summary>
 
 - [ ] [org] How to contribute?
 - [ ] [org] Docs update/roadmap
