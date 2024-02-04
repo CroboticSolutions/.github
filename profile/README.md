@@ -10,11 +10,9 @@ You can contribute to every part of the system and watch how robot grows!
 ## Roadmap
 
 <details>
-
+<summary> Useful links :) </summary>
 [Roadmapping](https://mozillascience.github.io/working-open-workshop/roadmapping/). 
 [Useful roadmapping links](https://github.com/choyongjoon/developer-roadmap-in-markdown?tab=readme-ov-file)
-
-  
 </details>
 
 
