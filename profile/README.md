@@ -1,4 +1,3 @@
-
 ![CroboticSolutions](./profile/images/CroboticSolutions.png)
 
 
@@ -15,10 +14,10 @@ Add roadmap
 ## Team 
 
 Team behind CroboticSolutions consists of: 
-1. Marko Križmančić: `marko.krizmancic@gmail.com`
+1. [Marko Križmančić](https://scholar.google.com/citations?user=tRrWVnUAAAAJ&hl=en&oi=ao): `marko.krizmancic@gmail.com`
 2. Mislav Lovrić: `mislav.lovric92@gmail.com`
-3. Ana Milas: `ana.batinovic.ab@gmail.com`
-4. Filip Zorić: `fzoric8@gmail.com` 
+3. [Ana Milas](https://scholar.google.com/citations?user=7ndo8OgAAAAJ&hl=en&oi=ao): `ana.batinovic.ab@gmail.com`
+4. [Filip Zorić](https://scholar.google.com/citations?user=-wwdd-UAAAAJ&hl=en&oi=ao): `fzoric8@gmail.com` 
 
 ## TODO: 
 
