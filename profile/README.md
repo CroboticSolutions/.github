@@ -14,5 +14,5 @@ Team behind CroboticSolutions consists of:
 
 ## Projects
 
-MALIQ: Open-source educational omni-directional robot platform 
-arm_api2: API for easy interfacing with robot manipulators with ROS 2
+**MALIQ**: Open-source educational omni-directional robot platform   
+**arm_api2**: API for easy interfacing with robot manipulators with ROS 2  
