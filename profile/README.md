@@ -1,6 +1,6 @@
 ![CroboticSolutions](./profile/images/CroboticSolutions.png)
 
-Check more on our [website](https://www.crobotics.tech).
+Check more on our [website](https://crobotics.tech).
 
 Contact us on: `hello@crobotics.tech`
 
