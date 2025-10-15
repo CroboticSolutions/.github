@@ -14,8 +14,8 @@ Team behind CroboticSolutions consists of:
 
 ## Projects
 
-* **arm_api2**: API for easy interfacing with robot manipulators with ROS 2    
 * **DemoMotion**: Humans teach, robots learn, DemoMotion translates human motion into precise robotic actions, making complex tasks easy to replicate.  
 * **IzzyTwist**: Turn robot programming into a few clicks, making collaborative robots instantly accessible to anyone through an intuitive web interface.  
 * **AutoPilot NDT (AUTOASSESS FSTP)**:  empowers drones to inspect autonomously, blending AI-driven flight with a human-friendly interface for smarter, scalable aerial inspections.  
+* **[arm_api2](https://github.com/CroboticSolutions/arm_api2)**: API for easy interfacing with robot manipulators with ROS 2    
 * **Maliq**: Open-source educational omni-directional robot platform   
