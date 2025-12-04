@@ -8,7 +8,7 @@ Contact us on: `hello@crobotics.tech`
 ## Team 
 
 Team behind CroboticSolutions consists of: 
-1. [Marko Križmančić](https://scholar.google.com/citations?user=tRrWVnUAAAAJ&hl=en&oi=ao) [CTO]: `marko.krizmancic@crobotics.tech`
+1. [Marko Križmančić, MSc](https://scholar.google.com/citations?user=tRrWVnUAAAAJ&hl=en&oi=ao) [CTO]: `marko.krizmancic@crobotics.tech`
 2. [Ana Milas, PhD](https://scholar.google.com/citations?user=7ndo8OgAAAAJ&hl=en&oi=ao) [COO]: `ana.milas@crobotics.tech`
 3. [Filip Zorić, PhD](https://scholar.google.com/citations?user=-wwdd-UAAAAJ&hl=en&oi=ao) [CEO]: `filip.zoric@crobotics.tech` 
 4. [Antonio Piršić, MSc](https://www.linkedin.com/in/antonio-pir%C5%A1i%C4%87-a31b8734b/): `antonio.pirsic@crobotics.tech`
