@@ -12,6 +12,7 @@ Team behind CroboticSolutions consists of:
 2. [Ana Milas, PhD](https://scholar.google.com/citations?user=7ndo8OgAAAAJ&hl=en&oi=ao) [COO]: `ana.milas@crobotics.tech`
 3. [Filip Zorić, PhD](https://scholar.google.com/citations?user=-wwdd-UAAAAJ&hl=en&oi=ao) [CEO]: `filip.zoric@crobotics.tech` 
 4. [Antonio Piršić, MSc](https://www.linkedin.com/in/antonio-pir%C5%A1i%C4%87-a31b8734b/): `antonio.pirsic@crobotics.tech`
+5. [Martin Stigleitner, MSc](https://www.linkedin.com/in/martin-stigleitner-52491b179/): `martin.stigleitner@crobotics.tech` 
 
 ## Projects
 
@@ -19,4 +20,4 @@ Team behind CroboticSolutions consists of:
 * **IzzyTwist**: Turn robot programming into a few clicks, making collaborative robots instantly accessible to anyone through an intuitive web interface.  
 * **AutoPilot NDT (AUTOASSESS FSTP)**:  empowers drones to inspect autonomously, blending AI-driven flight with a human-friendly interface for smarter, scalable aerial inspections.  
 * **[arm_api2](https://github.com/CroboticSolutions/arm_api2)**: API for easy interfacing with robot manipulators with ROS 2    
-* **Maliq**: Open-source educational omni-directional robot platform   
+* **Maliq**: Open-source educational omni-directional robot platform [DEPRECATED] 
